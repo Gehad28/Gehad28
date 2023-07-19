@@ -1,4 +1,13 @@
-### Hi there 👋
+### Gehad Ahmad
+
+## Education
+- Cairo University
+- Bachelor of Systems and Biomedical Engineering (SBME) 🎓Senior🎓
+
+## Skills
+ Python, C++, C, HTML, CSS, JavaScript.
+
+ 
 
 <!--
 **Gehad28/Gehad28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
