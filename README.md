@@ -5,7 +5,7 @@
 - Bachelor of Systems and Biomedical Engineering (SBME) 🎓Senior🎓
 
 ## Skills
- Python, C++, C, HTML, CSS, JavaScript.
+ Python, C++, C, HTML, CSS, JavaScript, ReactJS.
 
  
 
