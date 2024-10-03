@@ -2,10 +2,14 @@
 
 ## Education
 - Cairo University
-- Bachelor of Systems and Biomedical Engineering (SBME) 🎓Senior🎓
+- Bachelor of Systems and Biomedical Engineering (SBME) _Fresh Graduate_
 
 ## Skills
- Python, C++, C, HTML, CSS, JavaScript, ReactJS.
+### Programming Languages:
+JavaScript, TypeScript, Python, C, C#, Java.
+
+### Frameworks and Libraries:
+Angular,Bootstrap, Angular Material, Unity. 
 
  
 
