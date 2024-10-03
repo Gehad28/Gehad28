@@ -6,7 +6,7 @@
 
 ## Skills
 ### Programming Languages:
-JavaScript, TypeScript, Python, C, C#, Java.
+JavaScript, TypeScript, Python, C, C++, C#, Java.
 
 ### Frameworks and Libraries:
 Angular,Bootstrap, Angular Material, Unity. 
