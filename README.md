@@ -13,13 +13,13 @@
 <h3 align="center">Programming Languages 👩🏻‍💻</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,mysql" />
+   <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,mysql" width=300 />
   </a>
 </p>
 
 <p align="center">
   <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=js,ts,html,css" />
+   <img src="https://skillicons.dev/icons?i=js,ts,html,css" width=200 />
   </a>
 </p>
 
@@ -27,13 +27,13 @@
 <h3 align="center">Tools 🛠️</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=angular,react,bootstrap,flask,spring" />
+   <img src="https://skillicons.dev/icons?i=angular,react,bootstrap,flask,spring" width=250 />
   </a>
 </p>
 
 <p align="center">
   <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=qt,unity" />
+   <img src="https://skillicons.dev/icons?i=qt,unity" width=100 />
   </a>
 </p>
 
