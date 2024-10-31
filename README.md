@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://gist.githubusercontent.com/Gehad28/0181ed94e5f534e2320234bd7cdc4e38/raw/5eea032c5fe8e6b70604effe7da80c3aede985ea/Hello%2520World%2520Animation.svg" alt="Hello World Animation">
+  <img src="https://gist.githubusercontent.com/Gehad28/0181ed94e5f534e2320234bd7cdc4e38/raw/70990c5b4d0de82b88a3b87d7a3472c82ade272a/Hello%2520World%2520Animation.svg" alt="Hello World Animation">
 </div>
 
 <p align="center">
