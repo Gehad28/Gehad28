@@ -48,6 +48,12 @@
   </a>
 </p>
 
+<h2 align="center">Stats 📊</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Gehad28&show_icons=true&theme=radical">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gehad28&layout=compact&theme=radical">
+</p>
+
 
 <!--
 **Gehad28/Gehad28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
