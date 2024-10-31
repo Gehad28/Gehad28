@@ -7,9 +7,9 @@
  I am a Muslim Arab interested in art, literature, and anything beautiful! 🌟  
 </p>
 
-<h2 align="center">Skills</h2>
+<h2 align="center">Skills 🎯</h2>
 
-<h3 align="center">Programming Languages:</h3>
+<h3 align="center">Programming Languages 👩🏻‍💻</h3>
 <p align="center">
   <a href="https://skillicons.dev">
    <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,mysql" />
@@ -23,7 +23,7 @@
 </p>
 
 
-<h3 align="center">Tools:</h3>
+<h3 align="center">Tools 🛠️</h3>
 <p align="center">
   <a href="https://skillicons.dev">
    <img src="https://skillicons.dev/icons?i=angular,react,bootstrap,flask,spring" />
@@ -48,7 +48,7 @@
   </a>
 </p>
 
-<h2 align="center">Stats 📊</h2>
+<h2 align="center">Stats 📶</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Gehad28&show_icons=true&theme=radical">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gehad28&layout=compact&theme=radical">
