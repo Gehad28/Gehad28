@@ -1,17 +1,53 @@
-### Gehad Ahmad
+<div align="center">
+  <img src="https://gist.githubusercontent.com/Gehad28/0181ed94e5f534e2320234bd7cdc4e38/raw/5eea032c5fe8e6b70604effe7da80c3aede985ea/Hello%2520World%2520Animation.svg" alt="Hello World Animation">
+</div>
 
-## Education
-- Cairo University
-- Bachelor of Systems and Biomedical Engineering (SBME) _Fresh Graduate_
+<p align="center">
+ My name is <code>Gehad</code> and I am a web developer.<br>
+ I am a Muslim Arab interested in art, literature, and anything beautiful! 🌟  
+</p>
 
-## Skills
-### Programming Languages:
-JavaScript, TypeScript, Python, C, C++, C#, Java.
+<h2 align="center">Skills</h2>
 
-### Frameworks and Libraries:
-Angular, Bootstrap, Angular Material, Unity. 
+<h3 align="center">Programming Languages:</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+   <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,mysql" />
+  </a>
+</p>
 
- 
+<p align="center">
+  <a href="https://skillicons.dev">
+   <img src="https://skillicons.dev/icons?i=js,ts,html,css" />
+  </a>
+</p>
+
+
+<h3 align="center">Tools:</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+   <img src="https://skillicons.dev/icons?i=angular,react,bootstrap,flask,spring" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+   <img src="https://skillicons.dev/icons?i=qt,unity" />
+  </a>
+</p>
+
+<!-- [![My Skills](https://skillicons.dev/icons?i=angular,react,bootstrap,flask,spring,qt,unity&perline=4)](https://skillicons.dev) -->
+
+<h2 align="center">Reach me 📫</h2>
+<p align="center">
+  <a href="https://www.linkedin.com/in/gehad-a-702a29121">
+   <img src="https://skillicons.dev/icons?i=linkedin" width=30 target="_blank" />
+  </a>
+  <a href="https://www.instagram.com/gehad0ahmed">
+   <img src="https://skillicons.dev/icons?i=instagram" width=30 target="_blank" />
+  </a>
+</p>
+
 
 <!--
 **Gehad28/Gehad28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
