@@ -42,10 +42,9 @@
 
 <h2 align="center">Reach me 📫</h2>
 <p align="center">
-  <a href="https://www.linkedin.com/in/gehad-a-702a29121"">
+  <a href="https://www.linkedin.com/in/gehad-a-702a29121">
    <img src="https://skillicons.dev/icons?i=linkedin" width=30 target="_blank" />
   </a>
-      
   <a href="https://www.instagram.com/gehad0ahmed">
    <img src="https://skillicons.dev/icons?i=instagram" width=30 target="_blank" />
   </a>
