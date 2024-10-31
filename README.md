@@ -39,7 +39,7 @@
 
 <!-- [![My Skills](https://skillicons.dev/icons?i=angular,react,bootstrap,flask,spring,qt,unity&perline=4)](https://skillicons.dev) -->
 
-
+<!--
 <h2 align="center">Reach me 📫</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/gehad-a-702a29121">
@@ -49,7 +49,7 @@
    <img src="https://skillicons.dev/icons?i=instagram" width=30 target="_blank" />
   </a>
 </p>
-
+-->
 
 <h2 align="center">Stats 📶</h2>
 <p align="center">
