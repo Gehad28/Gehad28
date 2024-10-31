@@ -7,6 +7,7 @@
  I am a Muslim Arab interested in art, literature, and anything beautiful! 🌟  
 </p>
 
+
 <h2 align="center">Skills 🎯</h2>
 
 <h3 align="center">Programming Languages 👩🏻‍💻</h3>
@@ -38,19 +39,22 @@
 
 <!-- [![My Skills](https://skillicons.dev/icons?i=angular,react,bootstrap,flask,spring,qt,unity&perline=4)](https://skillicons.dev) -->
 
+
 <h2 align="center">Reach me 📫</h2>
 <p align="center">
-  <a href="https://www.linkedin.com/in/gehad-a-702a29121">
+  <a href="https://www.linkedin.com/in/gehad-a-702a29121"">
    <img src="https://skillicons.dev/icons?i=linkedin" width=30 target="_blank" />
   </a>
+      
   <a href="https://www.instagram.com/gehad0ahmed">
    <img src="https://skillicons.dev/icons?i=instagram" width=30 target="_blank" />
   </a>
 </p>
 
+
 <h2 align="center">Stats 📶</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gehad28&show_icons=true&theme=radical">
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=Gehad28&show_icons=true&theme=radical"> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gehad28&layout=compact&theme=radical">
 </p>
 
